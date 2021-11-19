@@ -1,5 +1,5 @@
 # Tabspammer
 Opens tabs
-PLEASE DO NOT USE THIS TO RUIN SOMEONES PC
+PLEASE DO NOT USE THIS TO RUIN SOMEONES COMPUTER
 
-Change it to anything you want, if you want it to open say, 5 tabs then change the 20 on line 5.
+You can change the link and the ammount of tabs you want to open on line 5.
