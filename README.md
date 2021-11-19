@@ -1,0 +1,2 @@
+# Tabspammer
+Opens tabs
